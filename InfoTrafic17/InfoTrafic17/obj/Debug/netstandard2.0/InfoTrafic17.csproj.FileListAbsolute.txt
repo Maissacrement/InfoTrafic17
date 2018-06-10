@@ -1,0 +1,9 @@
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\bin\Debug\netstandard2.0\InfoTrafic17.deps.json
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\bin\Debug\netstandard2.0\InfoTrafic17.dll
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\bin\Debug\netstandard2.0\InfoTrafic17.pdb
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.csprojAssemblyReference.cache
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.AssemblyInfoInputs.cache
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.AssemblyInfo.cs
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.dll
+C:\Users\Pierre\source\repos\InfoTrafic17\InfoTrafic17\InfoTrafic17\obj\Debug\netstandard2.0\InfoTrafic17.pdb

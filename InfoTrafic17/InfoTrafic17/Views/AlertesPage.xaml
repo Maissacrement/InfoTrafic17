@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InfoTrafic17.Views.AlertesPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- HEADER INFO TRAFIC -->
+            <Frame Margin="0"
+               BackgroundColor="LightGray"
+               CornerRadius="0"
+               HasShadow="True"
+               BorderColor="LightGray">
+
+                <Label Text="Infos Trafic La Rochelle"
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"
+                   HorizontalOptions="FillAndExpand"
+                   FontSize="25">
+                </Label>
+
+            </Frame>
+
+            <!-- LIST VIEW ALERTES -->
+            <ListView x:Name="alertes"
+                  Margin="10,0,10,0"
+                  SeparatorVisibility="None"
+                  VerticalOptions="FillAndExpand"
+                  HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ContentView>
+                                <Frame Margin="5,5,5,10" HasShadow="True" CornerRadius="2" Padding="0">
+                                    <StackLayout Orientation="Vertical">
+                                        <BoxView HeightRequest="2" Color="{Binding Color}"/>
+                                        <StackLayout Orientation="Vertical" Padding="5">
+                                            <Label Text="{Binding Titre}"
+                                           FontSize="20"
+                                           FontAttributes="Bold"
+                                           HorizontalTextAlignment="Center"></Label>
+
+                                            <Label Text="{Binding Description}" 
+                                           FontSize="15"
+                                           VerticalOptions="CenterAndExpand"></Label>
+
+                                            <BoxView HeightRequest="1" Color="LightGray"/>
+
+                                            <Label Text="{Binding Heures, StringFormat='Il y a {0}h'}"
+                                           FontSize="10"
+                                           HorizontalTextAlignment="End"
+                                           VerticalOptions="EndAndExpand"></Label>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </Frame>
+                            </ContentView>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
