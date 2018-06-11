@@ -344,23 +344,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pierre\\.nuget\\packages\\": {},
+    "C:\\Users\\rio_9\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pierre\\source\\repos\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17.csproj",
+      "projectUniqueName": "C:\\Users\\rio_9\\Documents\\Work\\infoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17.csproj",
       "projectName": "InfoTrafic17",
-      "projectPath": "C:\\Users\\Pierre\\source\\repos\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17.csproj",
-      "packagesPath": "C:\\Users\\Pierre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pierre\\source\\repos\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\obj\\",
+      "projectPath": "C:\\Users\\rio_9\\Documents\\Work\\infoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17.csproj",
+      "packagesPath": "C:\\Users\\rio_9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rio_9\\Documents\\Work\\infoTrafic17\\InfoTrafic17\\InfoTrafic17\\InfoTrafic17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pierre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rio_9\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

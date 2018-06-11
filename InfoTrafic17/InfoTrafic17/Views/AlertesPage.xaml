@@ -8,8 +8,7 @@
             <Frame Margin="0"
                BackgroundColor="LightGray"
                CornerRadius="0"
-               HasShadow="True"
-               BorderColor="LightGray">
+               HasShadow="True">
 
                 <Label Text="Infos Trafic La Rochelle"
                    TextColor="Black"
